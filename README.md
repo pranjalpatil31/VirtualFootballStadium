@@ -4,9 +4,7 @@ An interactive 3D football stadium built with **Unity** and **C#**. Explore the 
 
 ## 🎥 Video Demo
 
-**Watch the project demo:** [Add your video demo link here](PASTE_YOUR_VIDEO_LINK_HERE)
-
-> Replace the placeholder above with your public YouTube, Google Drive, or other accessible demo URL.
+**Watch the project demo:** [Watch the Virtual Football Stadium Demo](https://github.com/pranjalpatil31/VirtualFootballStadium/blob/main/StadiumVRFootball.mp4)
 
 ## ✨ Features
 
